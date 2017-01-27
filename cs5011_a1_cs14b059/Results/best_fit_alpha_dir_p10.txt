@@ -1,0 +1,96 @@
+Split 1:
+
+Confusion Matrix:
+[[ 95   1]
+ [  4 119]]
+
+Accuracy:  0.977168949772
+
+Class:  Spam
+Precision:  0.959595959596
+Recall:  0.989583333333
+F-measure:  0.974358974359 
+---------
+Class:  Ham
+Precision:  0.991666666667
+Recall:  0.967479674797
+F-measure:  0.979423868313 
+---------
+
+Split 2:
+
+Confusion Matrix:
+[[ 94   2]
+ [  4 120]]
+
+Accuracy:  0.972727272727
+
+Class:  Spam
+Precision:  0.959183673469
+Recall:  0.979166666667
+F-measure:  0.969072164948 
+---------
+Class:  Ham
+Precision:  0.983606557377
+Recall:  0.967741935484
+F-measure:  0.975609756098 
+---------
+
+Split 3:
+
+Confusion Matrix:
+[[ 90   6]
+ [  2 121]]
+
+Accuracy:  0.963470319635
+
+Class:  Spam
+Precision:  0.978260869565
+Recall:  0.9375
+F-measure:  0.957446808511 
+---------
+Class:  Ham
+Precision:  0.952755905512
+Recall:  0.983739837398
+F-measure:  0.968 
+---------
+
+Split 4:
+
+Confusion Matrix:
+[[ 95   1]
+ [  4 120]]
+
+Accuracy:  0.977272727273
+
+Class:  Spam
+Precision:  0.959595959596
+Recall:  0.989583333333
+F-measure:  0.974358974359 
+---------
+Class:  Ham
+Precision:  0.99173553719
+Recall:  0.967741935484
+F-measure:  0.979591836735 
+---------
+
+Split 5:
+
+Confusion Matrix:
+[[ 97   0]
+ [  3 121]]
+
+Accuracy:  0.986425339367
+
+Class:  Spam
+Precision:  0.97
+Recall:  1.0
+F-measure:  0.984771573604 
+---------
+Class:  Ham
+Precision:  1.0
+Recall:  0.975806451613
+F-measure:  0.987755102041 
+---------
+
+

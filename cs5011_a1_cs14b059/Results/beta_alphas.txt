@@ -1,0 +1,60 @@
+Params: [0.1,0.6]
+
+Accuracy:  0.972602739726
+
+Class:  1
+Precision:  0.959183673469
+Recall:  0.979166666667
+F-measure:  0.969072164948
+---------
+Class:  2
+Precision:  0.98347107438
+Recall:  0.967479674797
+F-measure:  0.975409836066
+---------
+
+
+Params: [1,0.1]
+
+Accuracy:  0.968181818182
+
+Class:  Spam
+Precision:  0.949494949495
+Recall:  0.979166666667
+F-measure:  0.964102564103
+---------
+Class:  Ham
+Precision:  0.98347107438
+Recall:  0.959677419355
+F-measure:  0.971428571429
+---------
+
+Params: [4,4]
+
+Accuracy:  0.945205479452
+
+Class:  Spam
+Precision:  1.0
+Recall:  0.875
+F-measure:  0.933333333333
+---------
+Class:  Ham
+Precision:  0.911111111111
+Recall:  1.0
+F-measure:  0.953488372093
+---------
+
+Params: [10,50]
+
+Accuracy:  0.962727272727
+
+Class:  Spam
+Precision:  0.959183673469
+Recall:  0.979166666667
+F-measure:  0.969072164948
+---------
+Class:  Ham
+Precision:  0.983606557377
+Recall:  0.967741935484
+F-measure:  0.975609756098
+
